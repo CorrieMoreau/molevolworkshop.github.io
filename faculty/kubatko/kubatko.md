@@ -19,14 +19,14 @@ E-mail: kubatko.2 (at) osu (dot) edu
 Twitter: [@Laura_Kubatko](https://twitter.com/Laura_Kubatko)
 
 
-### Lecture Material for 2025
+### Lecture Material for 2026
 
-[Species Tree Estimation Lecture 2025 slides]({{ site.baseurl }}/faculty/kubatko/pdf/SpeciesTreeEstimation2025.pdf)
+[Species Tree Estimation Lecture 2026 slides]({{ site.baseurl }}/faculty/kubatko/pdf/SpeciesTreeEstimation2026.pdf)
 
 
-### Optional lab for 2025 (on your own time)
+### Species tree lab for 2026 
 
-[Species Tree 2025 Tutorial]({{ site.baseurl }}/faculty/kubatko/pdf/svdq_tutorial.zip)
+[Species Tree 2026 Tutorial]({{ site.baseurl }}/faculty/kubatko/pdf/species-trees-tutorial-2026.html)
 
 
 
