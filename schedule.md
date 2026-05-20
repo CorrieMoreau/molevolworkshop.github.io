@@ -42,7 +42,7 @@ All sessions are in Loeb G70 (basement of Loeb building)
 ### Wednesday, May 20, 2026
 
 ---------------|--------------------------------------|-----------------------------------
- 09:00 - 10:30 | [Brown](/faculty-brown/)             | [Introduction to graphical models and RevBayes](/faculty/brown/pdf/Brown_GraphicalModels_RevBayes.pdf)
+ 09:00 - 10:30 | [Brown](/faculty-brown/)             | [Introduction to graphical models and RevBayes](/faculty/brown/pdf/Brown_GraphicalModels_RevBayes_2026.pdf)
  10:30 - 12:00 | [Brown](/faculty-brown/)             | [Gene tree estimation with RevBayes](https://revbayes.github.io/tutorials/ctmc/)
  14:00 - 15:30 | [Heath](/faculty-heath/)             | [Divergence-time estimation](https://figshare.com/articles/Bayesian_Divergence-Time_Estimation_Lecture/6849005)
  15:30 - 17:00 | [Heath](/faculty-heath/)             | [Divergence-time estimation Lab](https://revbayes.github.io/tutorials/fbd_simple)
