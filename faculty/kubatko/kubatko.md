@@ -26,7 +26,7 @@ Twitter: [@Laura_Kubatko](https://twitter.com/Laura_Kubatko)
 
 ### Species tree lab for 2026 
 
-[Species Tree 2026 Tutorial]({{ site.baseurl }}/faculty/kubatko/pdf/species-tree-tutorial-2026.html)
+[Species Tree 2026 Tutorial]({{ site.baseurl }}/faculty/kubatko/pdf/species-trees-tutorial-2026.html)
 
 
 
