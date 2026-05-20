@@ -14,48 +14,48 @@ permalink: /people/
 
 Name                           | Institution                                
 ------------------------------ | --------------------------------------------
-Chethana Adikari Mudiyanselage | U of Texas Arlington                       
-Juan Pablo Aguilar Cabezas     | Hampton U                                  
+Chethana Adikari Mudiyanselage | University of Texas Arlington                       
+Juan Pablo Aguilar Cabezas     | Hampton University                                  
 Srishti Arya                   | Natural History Museum                     
-Emily Baker                    | U of Sheffield                             
-Ashlynn Bruder                 | Vanderbilt U                               
-Brian Burnes                   | Mississippi U for Women                    
-Yvonne Cariño                  | U of Texas Arlington                       
-Nicolas Castillo Rodriguez     | U of Kentucky                              
-Anu Chandrasekhar              | U of Texas Arlington                       
-Xinmin Chang                   | Cornell U                                  
-Cherith Chen                   | Stanford U                                 
-Jing-Xuan Chen                 | Zhejiang U                                 
+Emily Baker                    | University of Sheffield                             
+Ashlynn Bruder                 | Vanderbilt University                               
+Brian Burnes                   | Mississippi University for Women                    
+Yvonne Cariño                  | University of Texas Arlington                       
+Nicolas Castillo Rodriguez     | University of Kentucky                              
+Anu Chandrasekhar              | University of Texas Arlington                       
+Xinmin Chang                   | Cornell University                                  
+Cherith Chen                   | Stanford University                                 
+Jing-Xuan Chen                 | Zhejiang University                                 
 Isabelle Danforth              | Virginia Institute of Marine Science       
-Joee Denis                     | Cornell U                                  
-Alissa Doucet                  | U of Chicago                               
-Kaan Eskut                     | U of Kentucky                              
+Joee Denis                     | Cornell University                                  
+Alissa Doucet                  | University of Chicago                               
+Kaan Eskut                     | University of Kentucky                              
 Shayla Ferreiro-Luce           | Columbia River Inter-Tribal Fish Commission
-Sonali Garg                    | U of Florida                               
-Tife Giwa                      | Oregon State U                             
-Noah Greenman                  | U of Maryland                              
-Janani Hariharan               | Bucknell U                                 
-Xinyi He                       | Zhejiang U                                 
-Tyler Imfeld                   | Xavier U                                   
-Deborah Kang                   | National U of Singapore                    
-Libby Kramer                   | Ohio U                                     
-Xuyu Liu                       | Ohio State U                               
-Angel Lopez Banda              | Arizona State U                            
+Sonali Garg                    | University of Florida                               
+Tife Giwa                      | Oregon State University                             
+Noah Greenman                  | University of Maryland                              
+Janani Hariharan               | Bucknell University                                 
+Xinyi He                       | Zhejiang University                                 
+Tyler Imfeld                   | Xavier University                                   
+Deborah Kang                   | National University of Singapore                    
+Libby Kramer                   | Ohio University                                     
+Xuyu Liu                       | Ohio State University                               
+Angel Lopez Banda              | Arizona State University                            
 Esther Okamoto                 | Caltech                                    
-Lausanne Lee Oliver            | George Washington U                        
+Lausanne Lee Oliver            | George Washington University                        
 Ruth Percino-Daniel            | El Colegio de la Frontera Sur              
-Nuria Ramirez                  | Georgia State U                            
-Jamie Ramirez                  | Northern Arizona U                         
-Edison Rea                     | U of Kentucky                              
-Pedro Romero Tena              | Centre national de la recherche scientifique
-Calvin Runnels                 | Johns Hopkins U                            
-Alex Rurik                     | Middle Tennessee State U                   
-Maria Belen Salinas            | Syracuse U                                 
-Khan Shametov                  | U of Kansas                                
-Meg Sporre                     | U of Michigan                              
-Austin Tang                    | Texas Tech U                               
-Ram Vijendran                  | Iowa State U                               
-Jiayang Wang                   | U of Wisconsin-Madison                     
-Yifan Wang                     | Florida State U                            
+Nuria Ramirez                  | Georgia State University                            
+Jamie Ramirez                  | Northern Arizona University                         
+Edison Rea                     | University of Kentucky                              
+Pedro Romero Tena              | Centre National de la Recherche Scientifique
+Calvin Runnels                 | Johns Hopkins University                            
+Alex Rurik                     | Middle Tennessee State University                   
+Maria Belen Salinas            | Syracuse University                                 
+Khan Shametov                  | University of Kansas                                
+Meg Sporre                     | University of Michigan                              
+Austin Tang                    | Texas Tech University                               
+Ram Vijendran                  | Iowa State University                               
+Jiayang Wang                   | University of Wisconsin-Madison                     
+Yifan Wang                     | Florida State University                            
 Yunqing Yu                     | James Hutton Institute                     
-Levana Zhang                   | Columbia U
+Levana Zhang                   | Columbia University
