@@ -10,51 +10,52 @@ permalink: /people/
 
 [List of current and recent faculty, TAs, and course assistants](/faculty/)
 
-## 2025 Participants
+## 2026 Participants
 
-First Name             | Last Name          | Institution                                                
----------------------- | ------------------ | -----------------------------------------------------------
-Mohammed               | Ahmed              | University Of Liverpool
-Elgin                  | Akin               | Johns Hopkins University Bloomberg School of Public Health
-Juan                   | Albornoz-Garzón    | University of Michigan
-Chinedum               | Anajemba           | Utah State University
-Mihajamalala Andotiana | Andriamanohera     | University of Texas at Arlington
-Godwin                 | Ani                | University of Massachusetts Amherst
-Lady                   | Arango-Gomez       | Louisiana State University
-Estefany               | Argueta Herrera    | University of Massachusetts Amherst
-Sarah                  | Babaei             | University of Toronto
-Lexi                   | Baca               | University of New Mexico
-Zachary                | Brown              | Colorado State University
-Ana Beatriz            | Buiatte            | SUNY University at Albany
-Julia                  | Canitz             | Hampton University
-Raymond                | Castillo           | Washington University in St. Louis
-Jimmy                  | Choi               | University of California: Merced
-Alexis                 | Culley             | Florida State University
-Qi                     | Dai                | Hong Kong Baptist University Ho Sin Hang Campus
-Regan                  | Drennan            | Natural History Museum London
-Evan                   | Gorstein           | University of Wisconsin-Madison
-Urvashi                | Goswami            | University of Florida
-Anik                   | Grearson           | University of California: Santa Cruz
-Ericka                 | Griggs             | University of Vermont
-Haogao                 | Gu                 | The University of Hong Kong
-Owen                   | Hale               | Vanderbilt University
-Tao                    | Hernandez Arellano | University of California: Riverside
-Yuen Wai               | Heung              | Hong Kong Baptist University
-Richard                | Hunter             | University of Massachusetts Boston
-Victoria               | Jones              | UC Santa Barbara
-Wonwoong               | Kim                | University of Michigan
-Danielle               | Land               | University of Kansas
-Aaron                  | Lee                | University of Minnesota: Twin Cities
-Abigail                | Magland            | University of Chicago
-Rajalekshmi            | Narayana Sarma     | Max Planck Institute for Evolutionary Biology
-Thao-Quyen             | Nguyen             | Iowa State University
-Miguel                 | Perez Perez        | Northern Arizona University
-Josephine              | Robertson          | University of Chicago
-Robert                 | Rolfe              | Duke University
-Rebecka                | Sepela             | Harvard College
-Alexandria             | Shafer             | University of Oklahoma
-Chiara                 | Smythies           | University of Washington
-Rachel                 | Thayer             | University of California: Davis
-Grace                  | Vaziri             | University of Minnesota: Twin Cities
-Nickole                | Villabona          | University of California: Irvine
-Juan                   | Wan                | Institute of Geology and Geophysics, Chinese Academy of Sciences
+First Name   | Last Name             | Institution                                
+------------- | --------------------- | --------------------------------------------
+Chethana     | Adikari Mudiyanselage | University of Texas Arlington                       
+Juan Pablo   | Aguilar Cabezas       | Hampton University                                  
+Srishti      | Arya                  | Natural History Museum                     
+Emily        | Baker                 | University of Sheffield                             
+Ashlynn      | Bruder                | Vanderbilt University                               
+Brian        | Burnes                | Mississippi University for Women                    
+Yvonne       | Cariño                | University of Texas Arlington                       
+Nicolas      | Castillo Rodriguez    | University of Kentucky                              
+Anu          | Chandrasekhar         | University of Texas Arlington                       
+Xinmin       | Chang                 | Cornell University                                  
+Cherith      | Chen                  | Stanford University                                 
+Jing-Xuan    | Chen                  | Zhejiang University                                 
+Isabelle     | Danforth              | Virginia Institute of Marine Science       
+Joee         | Denis                 | Cornell University                                  
+Alissa       | Doucet                | University of Chicago                               
+Kaan         | Eskut                 | University of Kentucky                              
+Shayla       | Ferreiro-Luce         | Columbia River Inter-Tribal Fish Commission
+Sonali       | Garg                  | University of Florida                               
+Tife         | Giwa                  | Oregon State University                             
+Noah         | Greenman              | University of Maryland                              
+Janani       | Hariharan             | Bucknell University                                 
+Xinyi        | He                    | Zhejiang University                                 
+Tyler        | Imfeld                | Xavier University                                   
+Deborah      | Kang                  | National University of Singapore                    
+Libby        | Kramer                | Ohio University                                     
+Xuyu         | Liu                   | Ohio State University                               
+Angel        | Lopez Banda           | Arizona State University                            
+Esther       | Okamoto               | Caltech                                    
+Lausanne Lee | Oliver                | George Washington University                        
+Ruth         | Percino-Daniel        | El Colegio de la Frontera Sur              
+Nuria        | Ramirez               | Georgia State University                            
+Jamie        | Ramirez               | Northern Arizona University                         
+Edison       | Rea                   | University of Kentucky                              
+Pedro        | Romero Tena           | Centre National de la Recherche Scientifique
+Calvin       | Runnels               | Johns Hopkins University                            
+Alex         | Rurik                 | Middle Tennessee State University                   
+Maria Belen  | Salinas               | Syracuse University                                 
+Khan         | Shametov              | University of Kansas                                
+Meg          | Sporre                | University of Michigan                              
+Austin       | Tang                  | Texas Tech University                               
+Ram          | Vijendran             | Iowa State University                               
+Jiayang      | Wang                  | University of Wisconsin-Madison                     
+Yifan        | Wang                  | Florida State University                            
+Yunqing      | Yu                    | James Hutton Institute                     
+Levana       | Zhang                 | Columbia University
