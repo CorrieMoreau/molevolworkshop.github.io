@@ -7,7 +7,7 @@ permalink: /faculty-smith/
 
 ### Arrival and Departure
 
-May 27 - June 3, 2023
+TBA, 2026
 
 ### Contact Info 
 E-mail: [ms4438@msstate.edu](mailto:ms4438@msstate.edu)
