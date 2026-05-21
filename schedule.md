@@ -55,8 +55,8 @@ All sessions are in Loeb G70 (basement of Loeb building)
 ### Thursday, May 21, 2026
 
 ---------------|--------------------------------------|-----------------------------------
- 09:00 - 10:30 | [Kubatko](/faculty-kubatko/)		       | [Species Tree Estimation]({{ site.baseurl }}/faculty/kubatko/pdf/SpeciesTreeEstimation2025.pdf)
- 10:30 - 12:00 | [Kubatko](/faculty-kubatko/)         | [Species Tree Estimation]({{ site.baseurl }}/faculty/kubatko/pdf/SpeciesTreeEstimation2025.pdf)
+ 09:00 - 10:30 | [Kubatko](/faculty-kubatko/)		       | [Species Tree Estimation]({{ site.baseurl }}/faculty/kubatko/pdf/SpeciesTreeEstimation2026.pdf)
+ 10:30 - 12:00 | [Kubatko](/faculty-kubatko/)         | [Species Tree Estimation]({{ site.baseurl }}/faculty/kubatko/pdf/SpeciesTreeEstimation2026.pdf)
  14:00 - 15:30 | [Swofford](/faculty-swofford/)       | PAUP*
  15:30 - 17:00 | Swofford and Kubatko                 | Species Tree Estimation with SVDQuartets
  19:00 - 20:30 | [Solís-Lemus](/faculty-solis-lemus/) | [Phylogenetic networks to study reticulate evolution](https://figshare.com/articles/presentation/MOLE_2025_Phylogenetic_networks_lecture/29144483?file=54806237)
