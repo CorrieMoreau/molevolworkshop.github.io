@@ -412,7 +412,7 @@ to type it here. It looks like this:</p>
 <p>We will first estimate the species tree topology by performing an SVDQuartets 
 analysis, referencing the taxon
 partition described above and included in the <em> canids.nex</em> file:</p>
-<pre><code>paup&gt; svdq nthreads=1 evalq=all taxpartition=species;</code></pre>
+<pre><code>paup&gt; svdq evalq=all taxpartition=species;</code></pre>
 
 <p>Notice that the (North American) gray wolf (<em>Canis lupus</em>)
 joins with the African golden wolf (<em>Canis anthus</em>) rather than
@@ -421,7 +421,7 @@ of the *BEAST tutorial (see <a href="https://github.com/genomescale/starbeast2/r
 ). However, this result is not well supported, as we can see by doing a
 multilocus nonparametric bootstrap, which resamples (with replacement)
 both loci and sites within loci:</p>
-<pre><code>paup&gt; svdq nthreads=1 evalq=all taxpartition=species bootstrap=multilocus loci=combined;</code></pre>
+<pre><code>paup&gt; svdq evalq=all taxpartition=species bootstrap=multilocus loci=combined;</code></pre>
 <p>(The “combined” above is the name of the character partition defining
 genes in the input file.) Examining the output bootstrap consensus tree,
 we see that the bootstrap support for the (gray wolf, African golden
@@ -520,7 +520,7 @@ begin taxa;
 end;
 
 begin trees;
-    tree 1 = [&amp;R] (A:4.2,((B:1.0,C:1.0):2.2,(D:3.1,(E:2.0,F:2.0):0.6):0.6):1.0);
+    tree 1 = [&amp;R] (A:4.2,((B:1.0,C:1.0):2.2,(D:3.1,(E:3.0,F:3.0):0.1):0.1):1.0);
 end;
 
 begin paup;
@@ -536,7 +536,7 @@ begin dnasim;
              seed=1;
     lset model=jc nst=1 basefreq=eq;    [= Jukes-Cantor model]
     beginsim nreps=100 seed=0;
-        svdq nthreads=1;
+        svdq;
         tally &#39;svdq&#39;;
     endsim;
 end;</code></pre>
