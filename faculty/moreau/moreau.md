@@ -7,7 +7,7 @@ permalink: /faculty-moreau/
 
 ### Arrival and Departure
 
-May 21 to May 24
+May 21 to May 24,2026
 
 ### Contact Info
 [Moreau Lab website](https://www.moreaulab.entomology.cornell.edu/team/corrie-moreau/)
