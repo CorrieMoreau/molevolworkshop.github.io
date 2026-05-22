@@ -3,6 +3,8 @@ layout: page
 title: Corrie Moreau
 permalink: /faculty-moreau/
 ---
+{% include figure.html description="Corrie Moreau" url="https://blogs.cornell.edu/moreaulab/files/2025/03/Moreau_2025.jpg" css="image-right" height="200px" %}
+
 ### Arrival and Departure
 
 May 21 to May 24
