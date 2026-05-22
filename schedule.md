@@ -69,8 +69,8 @@ All sessions are in Loeb G70 (basement of Loeb building)
 ---------------|--------------------------------------|-----------------------------------
  09:00 - 10:30 | [Beerli](/faculty-beerli/)           | [Model comparison in biogeography/population genetics using MIGRATE (introduction slides)]({{site.baseurl}}/faculty/beerli/pdf/bayesfactor_presented2024.pdf)
  10:30 - 12:00 | [Beerli](/faculty-beerli/)           | [MIGRATE (Tutorial)]({{ site.baseurl }}/faculty/beerli/migrate-tutorial-html/MIGRATEtutorial2023.html)
- 14:00 - 15:30 | Moreau                               | Ant Phylogenomics and Evolution
- 15:30 - 17:00 | Moreau                               | Ant Phylogenomics and Evolution 
+ 14:00 - 15:30 | [Moreau](/faculty-moreau/)           | [Ant Phylogenomics and Evolution]({{ site.baseurl }}/faculty/moreau/pdf/Moreau_WoodsHole1_2026.pdf)
+ 15:30 - 17:00 | [Moreau](/faculty-moreau/)           | [Ant Phylogenomics and Evolution]({{ site.baseurl }}/faculty/moreau/pdf/Moreau_WoodsHole2_2026.pdf)
  17:00 - 19:00 | [Bielawski](/faculty-bielawski/)     | Optional session: [Science under pressure](http://awarnach.mathstat.dal.ca/~joeb/PAML_lab/slides/Values_Pressure_Ethics_2026.pdf)
  19:00 - 22:00 | Swope Cafe                           | Course Dinner Party
  22:00 - 23:30 | MBL Club                             | Post-dinner social gathering
